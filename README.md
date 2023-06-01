@@ -4,6 +4,8 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gxxdrina&theme=vue)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gxxdrina&theme=default&utcOffset=8) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gxxdrina&theme=default)
+
 ![Top Languages Card](https://github-stats-evirunurm.vercel.app/api/languages.js?username=gxxdrina&color=white&pie=false) 
 
 <!--
