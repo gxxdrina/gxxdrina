@@ -1,8 +1,10 @@
 ### Hi there👋 I'm Rina
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=gxxdrina&theme=oldie&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=gxxdrina&theme=oldie&column=7&margin-w=3)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Top Languages Card](https://github-stats-evirunurm.vercel.app/api/languages.js?username=gxxdrina&color=white&pie=false)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gxxdrina&theme=vue)
+
+![Top Languages Card](https://github-stats-evirunurm.vercel.app/api/languages.js?username=gxxdrina&color=white&pie=false) 
 
 <!--
 **gxxdrina/gxxdrina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
