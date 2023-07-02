@@ -1,4 +1,5 @@
-## Hi there👋 I'm Rina
+<h2 align="center">Hi there👋 I'm Rina</h2>
+
 🌱 I have been learning programming since March 2023.  
 📚 I’m currently learning HTML/CSS, Ruby on Rails, JavaScript ...  
 
