@@ -1,7 +1,7 @@
 <h2 align="center">Hi there👋 I'm Rina!</h2>
 
 🌱 I have been learning programming since March 2023.  
-📚 I’m currently learning HTML/CSS, Ruby on Rails, JavaScript, Java, AWS ...  
+📚 I’m currently learning HTML/CSS, Ruby, JavaScript, Java, AWS ...  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=gxxdrina&theme=oldie&column=7&margin-w=3)](https://github.com/ryo-ma/github-profile-trophy)
 
